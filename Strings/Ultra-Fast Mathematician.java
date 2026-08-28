@@ -1,4 +1,6 @@
 // CodeForces problem 61A
+//https://codeforces.com/problemset/problem/61/A
+
 
 import java.util.*;
 public class Main{
